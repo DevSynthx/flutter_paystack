@@ -20,7 +20,7 @@ class BirthdayWidget extends StatefulWidget {
 }
 
 class _BirthdayWidgetState extends BaseState<BirthdayWidget> {
-  var _heightBox = const SizedBox(height: 20.0);
+  var _heightBox = const SizedBox(height: 21.0);
   DateTime? _pickedDate;
 
   @override
