@@ -60,7 +60,7 @@ class CustomAlertDialog extends StatelessWidget {
             child: onCancelPress == null
                 ? new Padding(
                     padding: const EdgeInsets.symmetric(
-                      horizontal: 10.0,
+                      horizontal: 10.3,
                       vertical: 20.0,
                     ),
                     child: new Column(
